@@ -8,6 +8,7 @@ A curated list of awesome meetups around the globe
   - [jug.msk.ru](https://vk.com/jugmsk)
   - [Lua Meetup](http://www.meetup.com/lua-in-moscow/)
   - [Golang Moscow](http://www.meetup.com/Golang-Moscow/)
+  - [#RuPostgres](http://www.meetup.com/postgresqlrussia/events/228840567/)
 - Saint Petersburg
   - [JUG.ru](https://vk.com/jugru)
   - [SPB .NET Community](https://plus.google.com/communities/115643868183582812348)
@@ -15,6 +16,10 @@ A curated list of awesome meetups around the globe
   - [fprog SPb](https://plus.google.com/communities/106931692847918217517)
   - [SPb Python](https://plus.google.com/communities/107328406287050920928)
   - [PiterJS](https://vk.com/piterjs)
+  - [R User Group](https://vk.com/spbrug)
+  - [Jenkins Meetup](http://www.meetup.com/St-Petersburg-Jenkins-Meetup/)
+  - [SPb TechWriters](https://plus.google.com/u/0/communities/111110772662436773783)
+  - [Go Meetup SPb](http://www.meetup.com/Golang-Peter/)
 - Yekaterinburg
   - [JUG.EKB](https://vk.com/jugekb)
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
