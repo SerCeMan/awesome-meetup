@@ -25,3 +25,8 @@ A curated list of awesome meetups around the globe
   - [JUG.EKB](https://vk.com/jugekb)
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
   - [Клуб открытых технологий](http://ot-club.org)
+## Estonia
+- Tallinn
+  - [Devclub.eu](http://devclub.eu/)
+  - [Devclub.ee](http://devclub.ee/)
+  - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
