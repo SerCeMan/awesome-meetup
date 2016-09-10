@@ -25,6 +25,7 @@ A curated list of awesome meetups around the globe
   - [JUG.EKB](https://vk.com/jugekb)
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
   - [Клуб открытых технологий](http://ot-club.org)
+
 ## Estonia
 - Tallinn
   - [Devclub.eu](http://devclub.eu/)
