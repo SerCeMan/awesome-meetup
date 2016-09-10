@@ -19,6 +19,7 @@ A curated list of awesome meetups around the globe
   - [R User Group](https://vk.com/spbrug)
   - [Jenkins Meetup](http://www.meetup.com/St-Petersburg-Jenkins-Meetup/)
   - [SPb TechWriters](https://plus.google.com/u/0/communities/111110772662436773783)
+  - [DevOps-40](https://www.meetup.com/DevOps-40/)
   - [Go Meetup SPb](http://www.meetup.com/Golang-Peter/)
 - Yekaterinburg
   - [JUG.EKB](https://vk.com/jugekb)
