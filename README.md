@@ -31,3 +31,7 @@ A curated list of awesome meetups around the globe
   - [Devclub.eu](http://devclub.eu/)
   - [Devclub.ee](http://devclub.ee/)
   - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
+
+## Ukraine
+- Kiev
+  - [Клуб анонимных разработчиков (UADevClub)](http://xpinjection.com/club/)
