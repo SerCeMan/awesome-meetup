@@ -38,6 +38,6 @@ A curated list of awesome meetups around the globe
 
 ## Belarus
 - Minsk
-  - [Belarus Kotlin User Group (BKUG)](http://bkug.by/)
+  - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
   - [Java Professionals By (JProf)](http://jprof.by/)
 
