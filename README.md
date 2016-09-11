@@ -35,3 +35,9 @@ A curated list of awesome meetups around the globe
 ## Ukraine
 - Kiev
   - [Клуб анонимных разработчиков (UADevClub)](http://xpinjection.com/club/)
+
+## Belarus
+- Minsk
+  - [Belarus Kotlin User Group (BKUG)](http://bkug.by/)
+  - [Java Professionals By (JProf)](http://jprof.by/)
+
