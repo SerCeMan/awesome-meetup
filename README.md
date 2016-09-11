@@ -8,6 +8,7 @@ A curated list of awesome meetups around the globe
 * [Estonia](#estonia)
 * [Russia](#russia)
 * [Ukraine](#ukraine)
+* [United Kingdom](#united-kingdom)
 
 ## Estonia
 - Tallinn
@@ -48,4 +49,6 @@ A curated list of awesome meetups around the globe
 - Kiev
   - [Клуб анонимных разработчиков (UADevClub)](http://xpinjection.com/club/)
 
-
+## United Kingdom
+- London
+  - [London Clojurians](http://www.londonclojurians.org/)
