@@ -4,10 +4,21 @@ A curated list of awesome meetups around the globe
 
 ### Table of Contents
 
-* [Russia](#russia)
-* [Estonia](#estonia)
-* [Ukraine](#ukraine)
 * [Belarus](#belarus)
+* [Estonia](#estonia)
+* [Russia](#russia)
+* [Ukraine](#ukraine)
+
+## Estonia
+- Tallinn
+  - [Devclub.eu](http://devclub.eu/)
+  - [Devclub.ee](http://devclub.ee/)
+  - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
+
+## Belarus
+- Minsk
+  - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
+  - [Java Professionals By (JProf)](http://jprof.by/)
 
 ## Russia
 - Moscow
@@ -33,18 +44,8 @@ A curated list of awesome meetups around the globe
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
   - [Клуб открытых технологий](http://ot-club.org)
 
-## Estonia
-- Tallinn
-  - [Devclub.eu](http://devclub.eu/)
-  - [Devclub.ee](http://devclub.ee/)
-  - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
-
 ## Ukraine
 - Kiev
   - [Клуб анонимных разработчиков (UADevClub)](http://xpinjection.com/club/)
 
-## Belarus
-- Minsk
-  - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
-  - [Java Professionals By (JProf)](http://jprof.by/)
 
