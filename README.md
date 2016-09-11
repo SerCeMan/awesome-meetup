@@ -2,6 +2,13 @@
 
 A curated list of awesome meetups around the globe
 
+### Table of Contents
+
+* [Russia](#russia)
+* [Estonia](#estonia)
+* [Ukraine](#ukraine)
+* [Belarus](#belarus)
+
 ## Russia
 - Moscow
   - [Moscow Python Meetup](http://www.moscowpython.ru/)
