@@ -6,9 +6,16 @@ A curated list of awesome meetups around the globe
 
 * [Belarus](#belarus)
 * [Estonia](#estonia)
+* [Germany](#germany)
 * [Russia](#russia)
 * [Ukraine](#ukraine)
 * [United Kingdom](#united-kingdom)
+
+## Belarus
+- Minsk
+  - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
+  - [Java Professionals By (JProf)](http://jprof.by/)
+
 
 ## Estonia
 - Tallinn
@@ -16,10 +23,10 @@ A curated list of awesome meetups around the globe
   - [Devclub.ee](http://devclub.ee/)
   - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
 
-## Belarus
-- Minsk
-  - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
-  - [Java Professionals By (JProf)](http://jprof.by/)
+
+## Germany
+- Munich
+  - [Munich Scala User Group](http://www.meetup.com/ScalaMuc/)
 
 ## Russia
 - Moscow
