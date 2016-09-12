@@ -6,6 +6,7 @@ A curated list of awesome meetups around the globe
 
 * [Belarus](#belarus)
 * [Estonia](#estonia)
+* [France](#france)
 * [Germany](#germany)
 * [Russia](#russia)
 * [Ukraine](#ukraine)
@@ -23,6 +24,10 @@ A curated list of awesome meetups around the globe
   - [Devclub.ee](http://devclub.ee/)
   - [Advanced Java User Group](http://www.meetup.com/Advanced-Java-Estonia/)
 
+
+## France
+- Paris
+  - [GDG Cloud Paris](https://www.meetup.com/GDG-Cloud-Paris)
 
 ## Germany
 - Hamburg
