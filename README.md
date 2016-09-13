@@ -8,6 +8,7 @@ A curated list of awesome meetups around the globe
 * [Estonia](#estonia)
 * [France](#france)
 * [Germany](#germany)
+* [Netherlands](#netherlands)
 * [Russia](#russia)
 * [Ukraine](#ukraine)
 * [United Kingdom](#united-kingdom)
@@ -34,6 +35,10 @@ A curated list of awesome meetups around the globe
   - [.NET User Group Hamburg](http://dotnet-usergroup-hamburg.de/) ([Meetup](https://www.meetup.com/Hamburg-C-Net-Meetup/), [Xing](https://www.xing.com/communities/groups/punkt-net-user-group-hamburg-c22e-1019884))
 - Munich
   - [Munich Scala User Group](http://www.meetup.com/ScalaMuc/)
+  
+## Netherlands
+- Randstad
+  - [CocoaheadsNL](http://cocoaheads.nl/)
 
 ## Russia
 - Moscow
