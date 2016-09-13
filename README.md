@@ -54,6 +54,7 @@ A curated list of awesome meetups around the globe
   - [SPb TechWriters](https://plus.google.com/u/0/communities/111110772662436773783)
   - [DevOps-40](https://www.meetup.com/DevOps-40/)
   - [Go Meetup SPb](http://www.meetup.com/Golang-Peter/)
+  - [CodeFreeze](https://vk.com/codefreeze)
 - Yekaterinburg
   - [JUG.EKB](https://vk.com/jugekb)
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
