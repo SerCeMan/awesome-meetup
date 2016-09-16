@@ -4,6 +4,7 @@ A curated list of awesome meetups around the globe
 
 ### Table of Contents
 
+* [Australia](#australia)
 * [Belarus](#belarus)
 * [Estonia](#estonia)
 * [France](#france)
@@ -12,6 +13,11 @@ A curated list of awesome meetups around the globe
 * [Russia](#russia)
 * [Ukraine](#ukraine)
 * [United Kingdom](#united-kingdom)
+
+## Australia
+- Sydney
+  - [Sydney JVM Community](http://www.meetup.com/Sydney-JVM-Community/)
+  - [C++ Meetup](http://www.meetup.com/SydneyCPlusPlusMeetup/)
 
 ## Belarus
 - Minsk
