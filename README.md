@@ -47,6 +47,7 @@ A curated list of awesome meetups around the globe
   - [Lua Meetup](http://www.meetup.com/lua-in-moscow/)
   - [Golang Moscow](http://www.meetup.com/Golang-Moscow/)
   - [#RuPostgres](http://www.meetup.com/postgresqlrussia/events/228840567/)
+  - [CocoaHeads](http://www.cocoaheads.ru/)
 - Saint Petersburg
   - [JUG.ru](https://vk.com/jugru)
   - [SPB .NET Community](https://plus.google.com/communities/115643868183582812348)
