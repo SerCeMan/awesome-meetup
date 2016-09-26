@@ -13,6 +13,7 @@ A curated list of awesome meetups around the globe
 * [Russia](#russia)
 * [Ukraine](#ukraine)
 * [United Kingdom](#united-kingdom)
+* [United States](#united-states)
 
 ## Australia
 - Sydney
@@ -79,3 +80,9 @@ A curated list of awesome meetups around the globe
 ## United Kingdom
 - London
   - [London Clojurians](http://www.londonclojurians.org/)
+  
+## United States
+- Chicago
+  - [Chicago Java User’s Group](http://www.meetup.com/ChicagoJUG/)
+- Denver
+  - [DenverJUG](http://www.denverjug.org/)
