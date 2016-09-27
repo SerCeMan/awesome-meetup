@@ -40,6 +40,8 @@ A curated list of awesome meetups around the globe
 ## Germany
 - Hamburg
   - [.NET User Group Hamburg](http://dotnet-usergroup-hamburg.de/) ([Meetup](https://www.meetup.com/Hamburg-C-Net-Meetup/), [Xing](https://www.xing.com/communities/groups/punkt-net-user-group-hamburg-c22e-1019884))
+- Berlin-Brandenburg
+  - [.NET User Group Berlin-Brandenburg](http://dnugbb.azurewebsites.net/)
 - Munich
   - [Munich Scala User Group](http://www.meetup.com/ScalaMuc/)
   
