@@ -82,6 +82,8 @@ A curated list of awesome meetups around the globe
 ## United Kingdom
 - London
   - [London Clojurians](http://www.londonclojurians.org/)
+- Scottland
+  - [Scottish Developers](https://scottishdevelopers.com/)
   
 ## United States
 - Chicago
