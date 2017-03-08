@@ -19,6 +19,7 @@ A curated list of awesome meetups around the globe
 - Sydney
   - [Sydney JVM Community](http://www.meetup.com/Sydney-JVM-Community/)
   - [C++ Meetup](http://www.meetup.com/SydneyCPlusPlusMeetup/)
+  - [ScalaSyd](https://www.meetup.com/scalasyd/)
 
 ## Belarus
 - Minsk
