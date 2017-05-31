@@ -6,6 +6,7 @@ A curated list of awesome meetups around the globe
 
 * [Australia](#australia)
 * [Belarus](#belarus)
+* [Colombia](#colombia)
 * [Estonia](#estonia)
 * [France](#france)
 * [Germany](#germany)
@@ -25,7 +26,10 @@ A curated list of awesome meetups around the globe
 - Minsk
   - [Belarus Kotlin User Group (BKUG)](https://bkug.by/)
   - [Java Professionals By (JProf)](http://jprof.by/)
-
+  
+## Colombia
+- Medellín
+  - [React Medelln by (React Medellín)](http://www.meetup.com/React-Medellin)
 
 ## Estonia
 - Tallinn
