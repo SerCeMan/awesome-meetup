@@ -75,12 +75,12 @@ A curated list of awesome meetups around the globe
   - [DevOps-40](https://www.meetup.com/DevOps-40/)
   - [Go Meetup SPb](http://www.meetup.com/Golang-Peter/)
   - [CodeFreeze](https://vk.com/codefreeze)
+- Tver
+  - [Сообщество Tver.IO](http://tver.io/)
 - Yekaterinburg
   - [JUG.EKB](https://vk.com/jugekb)
   - [Сообщество .NET в Екатеринбурге](https://vk.com/dotnetekb)
   - [Клуб открытых технологий](http://ot-club.org)
-- Tver
-  - [Сообщество Tver.IO](http://tver.io/)
 
 ## Ukraine
 - Kiev
