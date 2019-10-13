@@ -49,6 +49,8 @@ A curated list of awesome meetups around the globe
   - [.NET User Group Berlin-Brandenburg](http://dnugbb.azurewebsites.net/)
 - Munich
   - [Munich Scala User Group](http://www.meetup.com/ScalaMuc/)
+- Cologne
+  - [.NET User Group Köln](https://www.meetup.com/net-user-group-koeln/)
   
 ## Netherlands
 - Randstad
