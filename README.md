@@ -99,3 +99,5 @@ A curated list of awesome meetups around the globe
   - [Chicago Java User’s Group](http://www.meetup.com/ChicagoJUG/)
 - Denver
   - [DenverJUG](http://www.denverjug.org/)
+- Miami
+  - [LibreMiami Guix](https://libremiami.org/#events)
