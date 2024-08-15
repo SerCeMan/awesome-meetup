@@ -91,6 +91,8 @@ A curated list of awesome meetups around the globe
 ## United Kingdom
 - London
   - [London Clojurians](http://www.londonclojurians.org/)
+- Northampton
+  - [NN1 Dev Club](https://nn1.dev/)
 - Scottland
   - [Scottish Developers](https://scottishdevelopers.com/)
   
